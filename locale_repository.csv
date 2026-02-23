@@ -1,0 +1,1094 @@
+id	Language / country	country	standard	note
+aa	Afar		RFC4646	
+aa-DJ	Afar (Djibouti)	DJ	RFC4646	
+aa-ER	Afar (Eritrea)	ER	RFC4646	
+aa-ET	Afar (Ethiopia)	ET	RFC4646	
+af	Afrikaans		RFC4646	
+af_ZA.UTF-8	Afrikaans (South Africa)	ZA	posix	
+af-NA	Afrikaans (Namibia)	NA	RFC4646	
+af-ZA	Afrikaans (South Africa)	ZA	RFC4646	
+agq	Aghem		RFC4646	
+agq-CM	Aghem (Cameroon)	CM	RFC4646	
+ak	Akan		RFC4646	
+ak-GH	Akan (Ghana)	GH	RFC4646	
+am	Amharic		RFC4646	
+am-ET	Amharic (Ethiopia)	ET	RFC4646	
+ar	Arabic		RFC4646	
+ar_AE.UTF-8	Arabic (United Arab Emirates)	AE	posix	
+ar_BH.UTF-8	Arabic (Bahrain)	BH	posix	
+ar_DZ.UTF-8	Arabic (Algeria)	DZ	posix	
+ar_EG.ISO8859-6	Arabic (Egypt)	EG	posix	legacy
+ar_EG.UTF-8	Arabic (Egypt)	EG	posix	
+ar_IQ.UTF-8	Arabic (Iraq)	IQ	posix	
+ar_JO.UTF-8	Arabic (Jordan)	JO	posix	
+ar_KW.UTF-8	Arabic (Kuwait )	KW	posix	
+ar_LY.UTF-8	Arabic (Libya)	LY	posix	
+ar_MA.UTF-8	Arabic (Morocco )	MA	posix	
+ar_OM.UTF-8	Arabic (Oman)	OM	posix	
+ar_QA.UTF-8	Arabic (Qatar )	QA	posix	
+ar_SA.UTF-8	Arabic (Saudi Arabia)	SA	posix	
+ar_TN.UTF-8	Arabic (Tunisia)	TN	posix	
+ar_YE.UTF-8 	Arabic (Yemen)	YE	posix	
+ar-001	Arabic (World)		RFC4646	
+ar-AE	Arabic (United Arab Emirates)	AE	RFC4646	
+ar-BH	Arabic (Bahrain)	BH	RFC4646	
+ar-DJ	Arabic (Djibouti)	DJ	RFC4646	
+ar-DZ	Arabic (Algeria)	DZ	RFC4646	
+ar-EG	Arabic (Egypt)	EG	RFC4646	
+ar-ER	Arabic (Eritrea)	ER	RFC4646	
+ar-IL	Arabic (Israel/occupied territory)	IL	RFC4646	
+ar-IQ	Arabic (Iraq)	IQ	RFC4646	
+ar-JO	Arabic (Jordan)	JO	RFC4646	
+ar-KM	Arabic (Comoros)	KM	RFC4646	
+ar-KW	Arabic (Kuwait)	KW	RFC4646	
+ar-LB	Arabic (Lebanon)	LB	RFC4646	
+ar-LY	Arabic (Libya)	LY	RFC4646	
+ar-MA	Arabic (Morocco)	MA	RFC4646	
+ar-MR	Arabic (Mauritania)	MR	RFC4646	
+ar-OM	Arabic (Oman)	OM	RFC4646	
+ar-PS	Arabic (Palestinian Authority)	PS	RFC4646	
+ar-QA	Arabic (Qatar)	QA	RFC4646	
+ar-SA	Arabic (Saudi Arabia)	SA	RFC4646	
+ar-SD	Arabic (Sudan)	SD	RFC4646	
+ar-SO	Arabic (Somalia)	SO	RFC4646	
+ar-SS	Arabic (South Sudan)	SS	RFC4646	
+ar-SY	Arabic (Syria)	SY	RFC4646	
+ar-TD	Arabic (Chad)	TD	RFC4646	
+ar-TN	Arabic (Tunisia)	TN	RFC4646	
+ar-YE	Arabic (Yemen)	YE	RFC4646	
+arn	Mapudungun		RFC4646	
+arn-CL	Mapudungun (Chile)	CL	RFC4646	
+as	Assamese		RFC4646	
+as_IN.UTF-8 	Assamese (India)	IN	posix	
+as-IN	Assamese (India)	IN	RFC4646	
+asa	Asu		RFC4646	
+asa-TZ	Asu (Tanzania)	TZ	RFC4646	
+ast	Asturian		RFC4646	
+ast-ES	Asturian (Spain)	ES	RFC4646	
+az	Azerbaijani		RFC4646	
+az_AZ.UTF-8	Azerbaijani (Azerbaijan)	AZ	posix	
+az-Cyrl	Azerbaijani (Cyrillic)		RFC4646	
+az-Cyrl-AZ	Azerbaijani (Cyrillic, Azerbaijan)	AZ	RFC4646	
+az-Latn	Azerbaijani (Latin)		RFC4646	
+az-Latn-AZ	Azerbaijani (Latin, Azerbaijan)	AZ	RFC4646	
+ba	Bashkir		RFC4646	
+ba-RU	Bashkir (Russia)	RU	RFC4646	
+bas	Basaa		RFC4646	
+bas-CM	Basaa (Cameroon)	CM	RFC4646	
+be	Belarusian		RFC4646	
+be_BY.UTF-8	Belarusian (Belarus)	BY	posix	
+be-BY	Belarusian (Belarus)	BY	RFC4646	
+bem	Bemba		RFC4646	
+bem-ZM	Bemba (Zambia)	ZM	RFC4646	
+bez	Bena		RFC4646	
+bez-TZ	Bena (Tanzania)	TZ	RFC4646	
+bg	Bulgarian		RFC4646	
+bg_BG.ISO8859-5	Bulgarian (Bulgaria)	BG	posix	legacy
+bg_BG.UTF-8	Bulgarian (Bulgaria )	BG	posix	
+bg-BG	Bulgarian (Bulgaria)	BG	RFC4646	
+bin	Edo		RFC4646	
+bin-NG	Edo (Nigeria)	NG	RFC4646	
+bm	Bambara		RFC4646	
+bm-Latn	Bambara (Latin)		RFC4646	
+bm-Latn-ML	Bambara (Latin, Mali)	ML	RFC4646	
+bn	Bangla		RFC4646	
+bn_IN.UTF-8	Bengali (India)	IN	posix	
+bn-BD	Bangla (Bengali, Bangladesh)	BD	RFC4646	
+bn-IN	Bangla (India)	IN	RFC4646	
+bo	Tibetan		RFC4646	
+bo-CN	Tibetan (PRC)	CN	RFC4646	
+bo-IN	Tibetan (India)	IN	RFC4646	
+br	Breton		RFC4646	
+br-FR	Breton (France)	FR	RFC4646	
+brx	Bodo		RFC4646	
+brx-IN	Bodo (India)	IN	RFC4646	
+bs	Bosnian		RFC4646	
+bs_BA.ISO8859-2	Bosnian (Bosnia and Herzegovina)	BA	posix	legacy
+bs_BA.UTF-8	Bosnian (Bosnia and Herzegovina)	BA	posix	
+bs-Cyrl	Bosnian (Cyrillic)		RFC4646	
+bs-Cyrl-BA	Bosnian (Cyrillic, Bosnia and Herzegovina)	BA	RFC4646	
+bs-Latn	Bosnian (Latin)		RFC4646	
+bs-Latn-BA	Bosnian (Latin, Bosnia and Herzegovina)	BA	RFC4646	
+byn	Blin		RFC4646	
+byn-ER	Blin (Eritrea)	ER	RFC4646	
+ca	Catalan		RFC4646	
+ca_ES.ISO8859-1	Catalan		posix	legacy
+ca_ES.ISO8859-15	Catalan (Spain)	ES	posix	legacy
+ca_ES.UTF-8	Catalan (Spain)	ES	posix	
+ca-AD	Catalan (Andorra)	AD	RFC4646	
+ca-ES	Catalan (Catalan)	ES	RFC4646	
+ca-ES-valencia	Valencian (Spain)	ES	RFC4646	
+ca-FR	Catalan (France)	FR	RFC4646	
+ca-IT	Catalan (Italy)	IT	RFC4646	
+ce	Chechen		RFC4646	
+ce-RU	Chechen (Russia)	RU	RFC4646	
+cgg	Chiga		RFC4646	
+cgg-UG	Chiga (Uganda)	UG	RFC4646	
+chr	Cherokee		RFC4646	
+chr-Cher	Cherokee (Cherokee)		RFC4646	
+chr-Cher-US	Cherokee (Cherokee)	US	RFC4646	
+co	Corsican		RFC4646	
+co-FR	Corsican (France)	FR	RFC4646	
+cs	Czech		RFC4646	
+cs_CZ.ISO8859-2	Czech (Czech Republic)	CZ	posix	legacy
+cs_CZ.UTF-8	Czech (Czech Republic)	CZ	posix	
+cs-CZ	Czech (Czechia / Czech Republic)	CZ	RFC4646	
+cu	Church Slavic		RFC4646	
+cu-RU	Church Slavic (Russia)	RU	RFC4646	
+cy	Welsh		RFC4646	
+cy-GB	Welsh (United Kingdom)	GB	RFC4646	
+CZ.UTF-8@euro	Czech (Czech Republic) – Euro	CZ	posix	legacy
+da	Danish		RFC4646	
+da_DK.ISO8859-1	Danish (Denmark)	DK	posix	legacy
+da_DK.ISO8859-15	Danish (Denmark)	DK	posix	legacy
+da_DK.ISO8859-15@euro	Danish (Denmark) – Euro	DK	posix	legacy
+da_DK.UTF-8	Danish (Denmark)	DK	posix	
+da-DK	Danish (Denmark)	DK	RFC4646	
+da-GL	Danish (Greenland)	GL	RFC4646	
+dav	Taita		RFC4646	
+dav-KE	Taita (Kenya)	KE	RFC4646	
+de	German		RFC4646	
+de_AT.ISO8859-1	German (Austria)	AT	posix	legacy
+de_AT.ISO8859-15	German (Austria)	AT	posix	legacy
+de_AT.UTF-8	German (Austria)	AT	posix	
+de_BE.UTF-8 	German (Belgium)	BE	posix	
+de_CH.ISO8859-1	German (Switzerland)	CH	posix	legacy
+de_CH.UTF-8	German (Switzerland)	CH	posix	
+de_DE.ISO8859-1	German (Germany)	DE	posix	legacy
+de_DE.ISO8859-15	German (Germany)	DE	posix	legacy
+de_DE.UTF-8	German (Germany)	DE	posix	
+de_LI.UTF-8	German (Liechtenstein )	LI	posix	
+de_LU.UTF-8	German (Luxembourg)	LU	posix	
+de-AT	German (Austria)	AT	RFC4646	
+de-BE	German (Belgium)	BE	RFC4646	
+de-CH	German (Switzerland)	CH	RFC4646	
+de-DE	German (Germany)	DE	RFC4646	
+de-IT	German (Italy)	IT	RFC4646	
+de-LI	German (Liechtenstein)	LI	RFC4646	
+de-LU	German (Luxembourg)	LU	RFC4646	
+dje	Zarma		RFC4646	
+dje-NE	Zarma (Niger)	NE	RFC4646	
+dsb	Lower Sorbian		RFC4646	
+dsb-DE	Lower Sorbian (Germany)	DE	RFC4646	
+dua	Duala		RFC4646	
+dua-CM	Duala (Cameroon)	CM	RFC4646	
+dv	Divehi		RFC4646	
+dv-MV	Divehi (Maldives)	MV	RFC4646	
+dyo	Jola-Fonyi		RFC4646	
+dyo-SN	Jola-Fonyi (Senegal)	SN	RFC4646	
+dz	Dzongkha		RFC4646	
+dz-BT	Dzongkha (Bhutan)	BT	RFC4646	
+ebu	Embu		RFC4646	
+ebu-KE	Embu (Kenya)	KE	RFC4646	
+ee	Ewe		RFC4646	
+ee-GH	Ewe (Ghana)	GH	RFC4646	
+ee-TG	Ewe (Togo)	TG	RFC4646	
+el	Greek		RFC4646	
+el_CY.UTF-8	Greek (Cyprus )	CY	posix	
+el_GR.ISO8859-7	Greek (Greece )	GR	posix	legacy
+el_GR.UTF-8	Greek (Greece)	GR	posix	
+el-CY	Greek (Cyprus)	CY	RFC4646	
+el-GR	Greek (Greece)	GR	RFC4646	
+en	English		RFC4646	
+en_AU.ISO8859-1	English (Australia)	AU	posix	legacy
+en_AU.UTF-8	English (Australia)	AU	posix	
+en_BW.UTF-8	English (Botswana)	BW	posix	
+en_CA.ISO8859-1	English (Canada)	CA	posix	legacy
+en_CA.UTF-8	English (Canada)	CA	posix	
+en_GB.ISO8859-1	English (United Kingdom)	GB	posix	legacy
+en_GB.ISO8859-15	English (United Kingdom)	GB	posix	legacy
+en_GB.ISO8859-15@euro	English (United Kingdom) – Euro	GB	posix	legacy
+en_GB.UTF-8	English (United Kingdom)	GB	posix	
+en_HK.UTF-8	English (Hong Kong SAR China)	HK	posix	
+en_IE.ISO8859-1	English (Ireland )	IE	posix	legacy
+en_IE.ISO8859-15	English (Ireland)	IE	posix	legacy
+en_IE.UTF-8	English (Ireland)	IE	posix	
+en_IN.UTF-8	English (India )	IN	posix	
+en_MT.UTF-8	English (Malta)	MT	posix	
+en_NZ.ISO8859-1	English (New Zealand)	NZ	posix	legacy
+en_NZ.UTF-8	English (New Zealand)	NZ	posix	
+en_PH.UTF-8	English (Philippines)	PH	posix	
+en_SG.UTF-8	English (Singapore)	SG	posix	
+en_US.ISO8859-1	English (U.S.A.)	US	posix	legacy
+en_US.ISO8859-15	English (U.S.A.)	US	posix	legacy
+en_US.ISO8859-15@euro	English (U.S.A.) - Euro	US	posix	legacy
+en_US.UTF-8 	English (U.S.A.)	US	posix	
+en_ZW.UTF-8	English (Zimbabwe)	ZW	posix	
+en-001	English (World)		RFC4646	
+en-029	English (Caribbean)		RFC4646	
+en-150	English (Europe)		RFC4646	
+en-AG	English (Antigua and Barbuda)	AG	RFC4646	
+en-AI	English (Anguilla)	AI	RFC4646	
+en-AS	English (American Samoa)	AS	RFC4646	
+en-AT	English (Austria)	AT	RFC4646	
+en-AU	English (Australia)	AU	RFC4646	
+en-BB	English (Barbados)	BB	RFC4646	
+en-BE	English (Belgium)	BE	RFC4646	
+en-BI	English (Burundi)	BI	RFC4646	
+en-BM	English (Bermuda)	BM	RFC4646	
+en-BS	English (Bahamas)	BS	RFC4646	
+en-BW	English (Botswana)	BW	RFC4646	
+en-BZ	English (Belize)	BZ	RFC4646	
+en-CA	English (Canada)	CA	RFC4646	
+en-CC	English (Cocos [Keeling] Islands)	CC	RFC4646	
+en-CH	English (Switzerland)	CH	RFC4646	
+en-CK	English (Cook Islands)	CK	RFC4646	
+en-CM	English (Cameroon)	CM	RFC4646	
+en-CX	English (Christmas Island)	CX	RFC4646	
+en-CY	English (Cyprus)	CY	RFC4646	
+en-DE	English (Germany)	DE	RFC4646	
+en-DK	English (Denmark)	DK	RFC4646	
+en-DM	English (Dominica)	DM	RFC4646	
+en-ER	English (Eritrea)	ER	RFC4646	
+en-FI	English (Finland)	FI	RFC4646	
+en-FJ	English (Fiji)	FJ	RFC4646	
+en-FK	English (Falkland Islands)	FK	RFC4646	
+en-FM	English (Micronesia)	FM	RFC4646	
+en-GB	English (United Kingdom)	GB	RFC4646	
+en-GD	English (Grenada)	GD	RFC4646	
+en-GG	English (Guernsey)	GG	RFC4646	
+en-GH	English (Ghana)	GH	RFC4646	
+en-GI	English (Gibraltar)	GI	RFC4646	
+en-GM	English (Gambia)	GM	RFC4646	
+en-GU	English (Guam)	GU	RFC4646	
+en-GY	English (Guyana)	GY	RFC4646	
+en-HK	English (Hong Kong SAR)	HK	RFC4646	
+en-ID	English (Indonesia)	ID	RFC4646	
+en-IE	English (Ireland)	IE	RFC4646	
+en-IL	English (Israel/occupied territory)	IL	RFC4646	
+en-IM	English (Isle of Man)	IM	RFC4646	
+en-IN	English (India)	IN	RFC4646	
+en-IO	English (British Indian Ocean Territory)	IO	RFC4646	
+en-JE	English (Jersey)	JE	RFC4646	
+en-JM	English (Jamaica)	JM	RFC4646	
+en-KE	English (Kenya)	KE	RFC4646	
+en-KI	English (Kiribati)	KI	RFC4646	
+en-KN	English (Saint Kitts and Nevis)	KN	RFC4646	
+en-KY	English (Cayman Islands)	KY	RFC4646	
+en-LC	English (Saint Lucia)	LC	RFC4646	
+en-LR	English (Liberia)	LR	RFC4646	
+en-LS	English (Lesotho)	LS	RFC4646	
+en-MG	English (Madagascar)	MG	RFC4646	
+en-MH	English (Marshall Islands)	MH	RFC4646	
+en-MO	English (Macao SAR)	MO	RFC4646	
+en-MP	English (Northern Mariana Islands)	MP	RFC4646	
+en-MS	English (Montserrat)	MS	RFC4646	
+en-MT	English (Malta)	MT	RFC4646	
+en-MU	English (Mauritius)	MU	RFC4646	
+en-MW	English (Malawi)	MW	RFC4646	
+en-MY	English (Malaysia)	MY	RFC4646	
+en-NA	English (Namibia)	NA	RFC4646	
+en-NF	English (Norfolk Island)	NF	RFC4646	
+en-NG	English (Nigeria)	NG	RFC4646	
+en-NL	English (Netherlands)	NL	RFC4646	
+en-NR	English (Nauru)	NR	RFC4646	
+en-NU	English (Niue)	NU	RFC4646	
+en-NZ	English (New Zealand)	NZ	RFC4646	
+en-PG	English (Papua New Guinea)	PG	RFC4646	
+en-PH	English (Philippines)	PH	RFC4646	
+en-PK	English (Pakistan)	PK	RFC4646	
+en-PN	English (Pitcairn Islands)	PN	RFC4646	
+en-PR	English (Puerto Rico)	PR	RFC4646	
+en-PW	English (Palau)	PW	RFC4646	
+en-RW	English (Rwanda)	RW	RFC4646	
+en-SB	English (Solomon Islands)	SB	RFC4646	
+en-SC	English (Seychelles)	SC	RFC4646	
+en-SD	English (Sudan)	SD	RFC4646	
+en-SE	English (Sweden)	SE	RFC4646	
+en-SG	English (Singapore)	SG	RFC4646	
+en-SH	English (St Helena, Ascension, Tristan da Cunha)	SH	RFC4646	
+en-SI	English (Slovenia)	SI	RFC4646	
+en-SL	English (Sierra Leone)	SL	RFC4646	
+en-SS	English (South Sudan)	SS	RFC4646	
+en-SX	English (Sint Maarten)	SX	RFC4646	
+en-SZ	English (Swaziland)	SZ	RFC4646	
+en-TC	English (Turks and Caicos Islands)	TC	RFC4646	
+en-TK	English (Tokelau)	TK	RFC4646	
+en-TO	English (Tonga)	TO	RFC4646	
+en-TT	English (Trinidad and Tobago)	TT	RFC4646	
+en-TV	English (Tuvalu)	TV	RFC4646	
+en-TZ	English (Tanzania)	TZ	RFC4646	
+en-UG	English (Uganda)	UG	RFC4646	
+en-UM	English (US Minor Outlying Islands)	UM	RFC4646	
+en-US	English (United States)	US	RFC4646	
+en-VC	English (Saint Vincent and the Grenadines)	VC	RFC4646	
+en-VG	English (British Virgin Islands)	VG	RFC4646	
+en-VI	English (US Virgin Islands)	VI	RFC4646	
+en-VU	English (Vanuatu)	VU	RFC4646	
+en-WS	English (Samoa)	WS	RFC4646	
+en-ZA	English (South Africa)	ZA	RFC4646	
+en-ZM	English (Zambia)	ZM	RFC4646	
+en-ZW	English (Zimbabwe)	ZW	RFC4646	
+eo	Esperanto		RFC4646	
+eo-001	Esperanto (World)		RFC4646	
+es	Spanish		RFC4646	
+es_AR.ISO8859-1	Spanish (Argentina)	AR	posix	legacy
+es_AR.UTF-8	Spanish (Argentina)	AR	posix	
+es_BO.ISO8859-1	Spanish (Bolivia)	BO	posix	legacy
+es_BO.UTF-8	Spanish (Bolivia)	BO	posix	
+es_CL.ISO8859-1	Spanish (Chile)	CL	posix	legacy
+es_CL.UTF-8	Spanish (Chile)	CL	posix	
+es_CO.ISO8859-1	Spanish (Colombia)	CO	posix	legacy
+es_CO.UTF-8	Spanish (Colombia)	CO	posix	
+es_CR.ISO8859-1	Spanish (Costa Rica )	CR	posix	legacy
+es_CR.UTF-8	Spanish (Costa Rica )	CR	posix	
+es_DO.UTF-8	Spanish (Dominican Republic)	DO	posix	
+es_EC.ISO8859-1	Spanish (Ecuador )	EC	posix	legacy
+es_EC.UTF-8	Spanish (Ecuador)	EC	posix	
+es_ES.ISO8859-1	Spanish (Spain)	ES	posix	legacy
+es_ES.ISO8859-15	Spanish (Spain)	ES	posix	legacy
+es_ES.UTF-8	Spanish (Spain)	ES	posix	
+es_GT.ISO8859-1 	Spanish (Guatemala)	GT	posix	legacy
+es_GT.UTF-8	Spanish (Guatemala)	GT	posix	
+es_HN.UTF-8	Spanish (Honduras)	HN	posix	
+es_MX.ISO8859-1	Spanish (Mexico)	MX	posix	legacy
+es_MX.UTF-8	Spanish (Mexico)	MX	posix	
+es_NI.ISO8859-1	Spanish (Nicaragua )	NI	posix	legacy
+es_NI.UTF-8	Spanish (Nicaragua)	NI	posix	
+es_PA.ISO8859-1	Spanish (Panama)	PA	posix	legacy
+es_PA.UTF-8	Spanish (Panama)	PA	posix	
+es_PE.ISO8859-1	Spanish (Peru )	PE	posix	legacy
+es_PE.UTF-8	Spanish (Peru)	PE	posix	
+es_PR.UTF-8	Spanish (Puerto Rico)	PR	posix	
+es_PY.ISO8859-1	Spanish (Paraguay)	PY	posix	legacy
+es_PY.UTF-8	Spanish (Paraguay)	PY	posix	
+es_SV.ISO8859-1	Spanish (El Salvador)	SV	posix	legacy
+es_SV.UTF-8	Spanish (El Salvador)	SV	posix	
+es_US.UTF-8	Spanish (U.S.A.)	US	posix	
+es_UY.ISO8859-1	Spanish (Uruguay )	UY	posix	legacy
+es_UY.UTF-8	Spanish (Uruguay)	UY	posix	
+es_VE.ISO8859-1	Spanish (Venezuela )	VE	posix	legacy
+es_VE.UTF-8	Spanish (Venezuela)	VE	posix	
+es-419	Spanish (Latin America)		RFC4646	
+es-AR	Spanish (Argentina)	AR	RFC4646	
+es-BO	Spanish (Bolivia)	BO	RFC4646	
+es-BR	Spanish (Brazil)	BR	RFC4646	
+es-BZ	Spanish (Belize)	BZ	RFC4646	
+es-CL	Spanish (Chile)	CL	RFC4646	
+es-CO	Spanish (Colombia)	CO	RFC4646	
+es-CR	Spanish (Costa Rica)	CR	RFC4646	
+es-CU	Spanish (Cuba)	CU	RFC4646	
+es-DO	Spanish (Dominican Republic)	DO	RFC4646	
+es-EC	Spanish (Ecuador)	EC	RFC4646	
+es-ES	Spanish (Spain)	ES	RFC4646	
+es-GQ	Spanish (Equatorial Guinea)	GQ	RFC4646	
+es-GT	Spanish (Guatemala)	GT	RFC4646	
+es-HN	Spanish (Honduras)	HN	RFC4646	
+es-MX	Spanish (Mexico)	MX	RFC4646	
+es-NI	Spanish (Nicaragua)	NI	RFC4646	
+es-PA	Spanish (Panama)	PA	RFC4646	
+es-PE	Spanish (Peru)	PE	RFC4646	
+es-PH	Spanish (Philippines)	PH	RFC4646	
+es-PR	Spanish (Puerto Rico)	PR	RFC4646	
+es-PY	Spanish (Paraguay)	PY	RFC4646	
+es-SV	Spanish (El Salvador)	SV	RFC4646	
+es-US	Spanish (United States)	US	RFC4646	
+es-UY	Spanish (Uruguay)	UY	RFC4646	
+es-VE	Spanish (Venezuela)	VE	RFC4646	
+et	Estonian		RFC4646	
+et_EE.ISO8859-15	Estonian (Estonia)	EE	posix	legacy
+et_EE.UTF-8	Estonian (Estonia)	EE	posix	
+et-EE	Estonian (Estonia)	EE	RFC4646	
+eu	Basque		RFC4646	
+eu-ES	Basque (Basque)	ES	RFC4646	
+ewo	Ewondo		RFC4646	
+ewo-CM	Ewondo (Cameroon)	CM	RFC4646	
+fa	Persian		RFC4646	
+fa-IR	Persian (Iran)	IR	RFC4646	
+ff	Fulah		RFC4646	
+ff-CM	Fulah (Cameroon)	CM	RFC4646	
+ff-GN	Fulah (Guinea)	GN	RFC4646	
+ff-Latn	Fulah (Latin)		RFC4646	
+ff-Latn-SN	Fulah (Latin, Senegal)	SN	RFC4646	
+ff-MR	Fulah (Mauritania)	MR	RFC4646	
+ff-NG	Fulah (Nigeria)	NG	RFC4646	
+fi	Finnish		RFC4646	
+fi_FI.ISO8859-1	Finnish (Finland)	FI	posix	legacy
+fi_FI.ISO8859-15	Finnish (Finland)	FI	posix	legacy
+fi_FI.UTF-8	Finnish (Finland)	FI	posix	
+fi-FI	Finnish (Finland)	FI	RFC4646	
+fil	Filipino		RFC4646	
+fil-PH	Filipino (Philippines)	PH	RFC4646	
+fo	Faroese		RFC4646	
+fo-DK	Faroese (Denmark)	DK	RFC4646	
+fo-FO	Faroese (Faroe Islands)	FO	RFC4646	
+fr	French		RFC4646	
+fr_BE.ISO8859-1	French (Belgium)	BE	posix	legacy
+fr_BE.ISO8859-15	French (Belgium)	BE	posix	legacy
+fr_BE.UTF-8	French (Belgium)	BE	posix	
+fr_CA.ISO8859-1	French (Canada)	CA	posix	legacy
+fr_CA.UTF-8	French (Canada)	CA	posix	
+fr_CH.ISO8859-1	French (Switzerland)	CH	posix	legacy
+fr_CH.UTF-8	French (Switzerland)	CH	posix	
+fr_FR.ISO8859-1	French (France)	FR	posix	legacy
+fr_FR.ISO8859-15	French (France )	FR	posix	legacy
+fr_FR.UTF-8	French (France)	FR	posix	
+fr_LU.UTF-8	French (Luxembourg)	LU	posix	
+fr-029	French (Caribbean)		RFC4646	
+fr-BE	French (Belgium)	BE	RFC4646	
+fr-BF	French (Burkina Faso)	BF	RFC4646	
+fr-BI	French (Burundi)	BI	RFC4646	
+fr-BJ	French (Benin)	BJ	RFC4646	
+fr-BL	French (Saint Barthélemy)	BL	RFC4646	
+fr-CA	French (Canada)	CA	RFC4646	
+fr-CD	French (Congo, DRC)	CD	RFC4646	
+fr-CF	French (Central African Republic)	CF	RFC4646	
+fr-CG	French (Congo-Brazzaville)	CG	RFC4646	
+fr-CH	French (Switzerland)	CH	RFC4646	
+fr-CI	French (Côte d’Ivoire)	CI	RFC4646	
+fr-CM	French (Cameroon)	CM	RFC4646	
+fr-DJ	French (Djibouti)	DJ	RFC4646	
+fr-DZ	French (Algeria)	DZ	RFC4646	
+fr-FR	French (France)	FR	RFC4646	
+fr-GA	French (Gabon)	GA	RFC4646	
+fr-GF	French (French Guiana)	GF	RFC4646	
+fr-GN	French (Guinea)	GN	RFC4646	
+fr-GP	French (Guadeloupe)	GP	RFC4646	
+fr-GQ	French (Equatorial Guinea)	GQ	RFC4646	
+fr-HT	French (Haiti)	HT	RFC4646	
+fr-KM	French (Comoros)	KM	RFC4646	
+fr-LU	French (Luxembourg)	LU	RFC4646	
+fr-MA	French (Morocco)	MA	RFC4646	
+fr-MC	French (Monaco)	MC	RFC4646	
+fr-MF	French (Saint Martin)	MF	RFC4646	
+fr-MG	French (Madagascar)	MG	RFC4646	
+fr-ML	French (Mali)	ML	RFC4646	
+fr-MQ	French (Martinique)	MQ	RFC4646	
+fr-MR	French (Mauritania)	MR	RFC4646	
+fr-MU	French (Mauritius)	MU	RFC4646	
+fr-NC	French (New Caledonia)		RFC4646	
+fr-NE	French (Niger)	NE	RFC4646	
+fr-PF	French (French Polynesia)	PF	RFC4646	
+fr-PM	French (Saint Pierre and Miquelon)	PM	RFC4646	
+fr-RE	French (Reunion)	RE	RFC4646	
+fr-RW	French (Rwanda)	RW	RFC4646	
+fr-SC	French (Seychelles)	SC	RFC4646	
+fr-SN	French (Senegal)	SN	RFC4646	
+fr-SY	French (Syria)	SY	RFC4646	
+fr-TD	French (Chad)	TD	RFC4646	
+fr-TG	French (Togo)	TG	RFC4646	
+fr-TN	French (Tunisia)	TN	RFC4646	
+fr-VU	French (Vanuatu)	VU	RFC4646	
+fr-WF	French (Wallis and Futuna)	WF	RFC4646	
+fr-YT	French (Mayotte)	YT	RFC4646	
+fur	Friulian		RFC4646	
+fur-IT	Friulian (Italy)	IT	RFC4646	
+fy	Frisian		RFC4646	
+fy-NL	Frisian (Netherlands)	NL	RFC4646	
+ga	Irish		RFC4646	
+ga-IE	Irish (Ireland)	IE	RFC4646	
+gd	Scottish Gaelic		RFC4646	
+gd-GB	Scottish Gaelic (United Kingdom)	GB	RFC4646	
+gl	Galician		RFC4646	
+gl-ES	Galician (Galician)	ES	RFC4646	
+gn	Guarani		RFC4646	
+gn-PY	Guarani (Paraguay)	PY	RFC4646	
+gsw	Alsatian		RFC4646	
+gsw-CH	Alsatian (Switzerland)	CH	RFC4646	
+gsw-FR	Alsatian (France)	FR	RFC4646	
+gsw-LI	Alsatian (Liechtenstein)	LI	RFC4646	
+gu	Gujarati		RFC4646	
+gu_IN.UTF-8 	Gujarati (India)	IN	posix	
+gu-IN	Gujarati (India)	IN	RFC4646	
+guz	Gusii		RFC4646	
+guz-KE	Gusii (Kenya)	KE	RFC4646	
+gv	Manx		RFC4646	
+gv-IM	Manx (Isle of Man)	IM	RFC4646	
+ha	Hausa		RFC4646	
+ha-Latn	Hausa (Latin)		RFC4646	
+ha-Latn-GH	Hausa (Latin, Ghana)	GH	RFC4646	
+ha-Latn-NE	Hausa (Latin, Niger)	NE	RFC4646	
+ha-Latn-NG	Hausa (Latin, Nigeria)	NG	RFC4646	
+haw	Hawaiian		RFC4646	
+haw-US	Hawaiian (United States)	US	RFC4646	
+he	Hebrew		RFC4646	
+he_IL.ISO8859-8	Hebrew (Israel)	IL	posix	legacy
+he_IL.UTF-8	Hebrew (Israel)	IL	posix	
+he-IL	Hebrew (Israel/occupied territory)	IL	RFC4646	
+hi	Hindi		RFC4646	
+hi_IN.UTF-8	Hindi (India)	IN	posix	
+hi-IN	Hindi (India)	IN	RFC4646	
+hr	Croatian		RFC4646	
+hr_HR.ISO8859-2	Croatian (Croatia)	HR	posix	legacy
+hr_HR.UTF-8	Croatian (Croatia)	HR	posix	
+hr-BA	Croatian (Latin, Bosnia and Herzegovina)	BA	RFC4646	
+hr-HR	Croatian (Croatia)	HR	RFC4646	
+hsb	Upper Sorbian		RFC4646	
+hsb-DE	Upper Sorbian (Germany)	DE	RFC4646	
+hu	Hungarian		RFC4646	
+hu_HU.ISO8859-2	Hungarian (Hungary)	HU	posix	legacy
+hu_HU.UTF-8	Hungarian (Hungary)	HU	posix	
+hu-HU	Hungarian (Hungary)	HU	RFC4646	
+hy	Armenian		RFC4646	
+hy_AM.UTF-8	Armenian (Armenia)	AM	posix	
+hy-AM	Armenian (Armenia)	AM	RFC4646	
+ia	Interlingua		RFC4646	
+ia-001	Interlingua (World)		RFC4646	
+ia-FR	Interlingua (France)	FR	RFC4646	
+ibb	Ibibio		RFC4646	
+ibb-NG	Ibibio (Nigeria)	NG	RFC4646	
+id	Indonesian		RFC4646	
+id_ID.UTF-8	Indonesian (Indonesia)	ID	posix	
+id-ID	Indonesian (Indonesia)	ID	RFC4646	
+ig	Igbo		RFC4646	
+ig-NG	Igbo (Nigeria)	NG	RFC4646	
+ii	Yi		RFC4646	
+ii-CN	Yi (PRC)	CN	RFC4646	
+is	Icelandic		RFC4646	
+is_IS.ISO8859-1	Icelandic (Iceland)	IS	posix	legacy
+is_IS.UTF-8	Icelandic (Iceland)	IS	posix	
+is-IS	Icelandic (Iceland)	IS	RFC4646	
+it	Italian		RFC4646	
+it_CH.UTF-8	Italian (Switzerland)	CH	posix	
+it_IT.ISO8859-1	Italian (Italy)	IT	posix	legacy
+it_IT.ISO8859-15	Italian (Italy)	IT	posix	legacy
+it_IT.UTF-8	Italian (Italy)	IT	posix	
+it-CH	Italian (Switzerland)	CH	RFC4646	
+it-IT	Italian (Italy)	IT	RFC4646	
+it-SM	Italian (San Marino)	SM	RFC4646	
+it-VA	Italian (Vatican City)	VA	RFC4646	
+iu	Inuktitut		RFC4646	
+iu-Cans	Inuktitut (Syllabics)		RFC4646	
+iu-Cans-CA	Inuktitut (Syllabics, Canada)	CA	RFC4646	
+iu-Latn	Inuktitut (Latin)		RFC4646	
+iu-Latn-CA	Inuktitut (Latin, Canada)	CA	RFC4646	
+ja	Japanese		RFC4646	
+ja_JP.eucJP	Japanese EUC environment. Compliant to UI-OSF Japanese Environment Implementation Agreement Version 1.1 	JP	posix	legacy
+ja_JP.PCK	Japanese (Japan [PC Kanji code, aka. Shift-JIS])	JP	posix	legacy
+ja_JP.UTF-8 	Japanese (Japan)	JP	posix	
+ja-JP	Japanese (Japan)	JP	RFC4646	
+jgo	Ngomba		RFC4646	
+jgo-CM	Ngomba (Cameroon)	CM	RFC4646	
+jmc	Machame		RFC4646	
+jmc-TZ	Machame (Tanzania)	TZ	RFC4646	
+jv	Javanese		RFC4646	
+jv-Java	Javanese (Javanese)		RFC4646	
+jv-Java-ID	Javanese (Javanese, Indonesia)	ID	RFC4646	
+jv-Latn	Javanese		RFC4646	
+jv-Latn-ID	Javanese (Indonesia)	ID	RFC4646	
+ka	Georgian		RFC4646	
+ka_GE.UTF-8	Georgian (Georgia)	GE	posix	
+ka-GE	Georgian (Georgia)	GE	RFC4646	
+kab	Kabyle		RFC4646	
+kab-DZ	Kabyle (Algeria)	DZ	RFC4646	
+kam	Kamba		RFC4646	
+kam-KE	Kamba (Kenya)	KE	RFC4646	
+kde	Makonde		RFC4646	
+kde-TZ	Makonde (Tanzania)	TZ	RFC4646	
+kea	Kabuverdianu		RFC4646	
+kea-CV	Kabuverdianu (Cabo Verde)	CV	RFC4646	
+khq	Koyra Chiini		RFC4646	
+khq-ML	Koyra Chiini (Mali)	ML	RFC4646	
+ki	Kikuyu		RFC4646	
+ki-KE	Kikuyu (Kenya)	KE	RFC4646	
+kk	Kazakh		RFC4646	
+kk_KZ.UTF-8	Kazakh (Kazakhstan)	KZ	posix	
+kk-KZ	Kazakh (Kazakhstan)	KZ	RFC4646	
+kkj	Kako		RFC4646	
+kkj-CM	Kako (Cameroon)	CM	RFC4646	
+kl	Greenlandic		RFC4646	
+kl-GL	Greenlandic (Greenland)	GL	RFC4646	
+kln	Kalenjin		RFC4646	
+kln-KE	Kalenjin (Kenya)	KE	RFC4646	
+km	Khmer		RFC4646	
+km-KH	Khmer (Cambodia)	KH	RFC4646	
+kn	Kannada		RFC4646	
+kn_IN.UTF-8	Kannada (India)	IN	posix	
+kn-IN	Kannada (India)	IN	RFC4646	
+ko	Korean		RFC4646	
+ko_KR.EUC	Korean (Korea)	KR	posix	legacy
+ko_KR.EUC@dict	Korean (Korea (dict))	KR	posix	legacy
+ko_KR.UTF-8	Korean (Korea)	KR	posix	
+ko_KR.UTF-8@dict	Korean (Korea (dict))	KR	posix	legacy
+ko-KP	Korean (North Korea)	KP	RFC4646	
+ko-KR	Korean (Korea)	KR	RFC4646	
+kok	Konkani		RFC4646	
+kok-IN	Konkani (India)	IN	RFC4646	
+kr	Kanuri		RFC4646	
+kr-NG	Kanuri (Nigeria)	NG	RFC4646	
+ks	Kashmiri		RFC4646	
+ks_IN.UTF-8	Kashmiri (India)	IN	posix	
+ks-Arab	Kashmiri (Perso-Arabic)		RFC4646	
+ks-Arab-IN	Kashmiri (Perso-Arabic)	IN	RFC4646	
+ks-Deva	Kashmiri (Devanagari)		RFC4646	
+ks-Deva-IN	Kashmiri (Devanagari, India)	IN	RFC4646	
+ksb	Shambala		RFC4646	
+ksb-TZ	Shambala (Tanzania)	TZ	RFC4646	
+ksf	Bafia		RFC4646	
+ksf-CM	Bafia (Cameroon)	CM	RFC4646	
+ksh	Colognian		RFC4646	
+ksh-DE	Ripuarian (Germany)	DE	RFC4646	
+ku	Central Kurdish		RFC4646	
+ku_TR.UTF-8	Kurdish (Turkey)	TR	posix	
+ku_TR.UTF-8@sorani	Kurdish (Sorani) (Turkey)	TR	posix	
+ku-Arab	Central Kurdish (Arabic)		RFC4646	
+ku-Arab-IQ	Central Kurdish (Iraq)	IQ	RFC4646	
+ku-Arab-IR	Kurdish (Perso-Arabic, Iran)	IR	RFC4646	
+kw	Cornish		RFC4646	
+kw-GB	Cornish (United Kingdom)	GB	RFC4646	
+ky	Kyrgyz		RFC4646	
+ky_KG.UTF-8	Kirghiz (Kyrgyzstan)	KG	posix	
+ky-KG	Kyrgyz (Kyrgyzstan)	KG	RFC4646	
+la	Latin		RFC4646	
+la-001	Latin (World)		RFC4646	
+lag	Langi		RFC4646	
+lag-TZ	Langi (Tanzania)	TZ	RFC4646	
+lb	Luxembourgish		RFC4646	
+lb-LU	Luxembourgish (Luxembourg)	LU	RFC4646	
+lg	Ganda		RFC4646	
+lg-UG	Ganda (Uganda)	UG	RFC4646	
+lkt	Lakota		RFC4646	
+lkt-US	Lakota (United States)	US	RFC4646	
+ln	Lingala		RFC4646	
+ln-AO	Lingala (Angola)	AO	RFC4646	
+ln-CD	Lingala (Congo, DRC)	CD	RFC4646	
+ln-CF	Lingala (Central African Republic)	CF	RFC4646	
+ln-CG	Lingala (Congo-Brazzaville)	CG	RFC4646	
+lo	Lao (Laos)		RFC4646	
+lo-LA	Lao (Laos LPDR)	LA	RFC4646	
+lrc	Northern Luri		RFC4646	
+lrc-IQ	Northern Luri (Iraq)	IQ	RFC4646	
+lrc-IR	Northern Luri (Iran)	IR	RFC4646	
+lt	Lithuanian		RFC4646	
+lt_LT.ISO8859-13	Lithuanian (Lithuania)	LT	posix	legacy
+lt_LT.UTF-8	Lithuanian (Lithuania)	LT	posix	
+lt-LT	Lithuanian (Lithuania)	LT	RFC4646	
+lu	Luba-Katanga		RFC4646	
+lu-CD	Luba-Katanga (Congo, DRC)	CD	RFC4646	
+luo	Luo		RFC4646	
+luo-KE	Luo (Kenya)	KE	RFC4646	
+luy	Luyia		RFC4646	
+luy-KE	Luyia (Kenya)	KE	RFC4646	
+lv	Latvian		RFC4646	
+lv_LV.ISO8859-13	Latvian (Latvia)	LV	posix	legacy
+lv_LV.UTF-8	Latvian (Latvia)	LV	posix	
+lv-LV	Latvian (Latvia)	LV	RFC4646	
+mas	Masai		RFC4646	
+mas-KE	Masai (Kenya)	KE	RFC4646	
+mas-TZ	Masai (Tanzania)	TZ	RFC4646	
+mer	Meru		RFC4646	
+mer-KE	Meru (Kenya)	KE	RFC4646	
+mfe	Morisyen		RFC4646	
+mfe-MU	Morisyen (Mauritius)	MU	RFC4646	
+mg	Malagasy		RFC4646	
+mg-MG	Malagasy (Madagascar)	MG	RFC4646	
+mgh	Makhuwa-Meetto		RFC4646	
+mgh-MZ	Makhuwa-Meetto (Mozambique)	MZ	RFC4646	
+mgo	Meta'		RFC4646	
+mgo-CM	Meta' (Cameroon)	CM	RFC4646	
+mi	Maori		RFC4646	
+mi-NZ	Maori (New Zealand)	NZ	RFC4646	
+mk	Macedonian (FYROM)		RFC4646	
+mk_MK.ISO8859-5	Macedonian (Macedonia)	MK	posix	legacy
+mk_MK.UTF-8	Macedonian (Macedonia)	MK	posix	
+mk-MK	Macedonian (Former Yugoslav Republic of Macedonia)	MK	RFC4646	
+ml	Malayalam		RFC4646	
+ml_IN.UTF-8	Malayalam (India)	IN	posix	
+ml-IN	Malayalam (India)	IN	RFC4646	
+mn	Mongolian		RFC4646	
+mn-Cyrl	Mongolian (Cyrillic)		RFC4646	
+mn-MN	Mongolian (Cyrillic, Mongolia)	MN	RFC4646	
+mn-Mong	Mongolian (Traditional Mongolian)		RFC4646	
+mn-Mong-CN	Mongolian (Traditional Mongolian, PRC)	CN	RFC4646	
+mn-Mong-MN	Mongolian (Traditional Mongolian, Mongolia)	MN	RFC4646	
+mni	Manipuri		RFC4646	
+mni-IN	Manipuri (India)	IN	RFC4646	
+moh	Mohawk		RFC4646	
+moh-CA	Mohawk (Mohawk)	CA	RFC4646	
+mr	Marathi		RFC4646	
+mr_IN.UTF-8	Marathi (India)	IN	posix	
+mr-IN	Marathi (India)	IN	RFC4646	
+ms	Malay		RFC4646	
+ms_MY.UTF-8	Malay (Malaysia )	MY	posix	
+ms-BN	Malay (Brunei Darussalam)	BN	RFC4646	
+ms-MY	Malay (Malaysia)	MY	RFC4646	
+ms-SG	Malay (Latin, Singapore)	SG	RFC4646	
+mt	Maltese		RFC4646	
+mt_MT.UTF-8	Maltese (Malta)	MT	posix	
+mt-MT	Maltese (Malta)	MT	RFC4646	
+mua	Mundang		RFC4646	
+mua-CM	Mundang (Cameroon)	CM	RFC4646	
+my	Burmese		RFC4646	
+my-MM	Burmese (Myanmar)	MM	RFC4646	
+mzn	Mazanderani		RFC4646	
+mzn-IR	Mazanderani (Iran)	IR	RFC4646	
+naq	Nama		RFC4646	
+naq-NA	Nama (Namibia)	NA	RFC4646	
+nb	Norwegian (Bokmål)		RFC4646	
+nb_NO.ISO8859-1	Norwegian Bokmal (Norway )	NO	posix	legacy
+nb_NO.UTF-8	Bokmal (Norway)	NO	posix	
+nb-NO	Norwegian, Bokmål (Norway)	NO	RFC4646	
+nb-SJ	Norwegian, Bokmål (Svalbard and Jan Mayen)	SJ	RFC4646	
+nd	North Ndebele		RFC4646	
+nd-ZW	North Ndebele (Zimbabwe)	ZW	RFC4646	
+nds	Low German		RFC4646	
+nds-DE	Low German (Germany)	DE	RFC4646	
+nds-NL	Low German (Netherlands)	NL	RFC4646	
+ne	Nepali		RFC4646	
+ne-IN	Nepali (India)	IN	RFC4646	
+ne-NP	Nepali (Nepal)	NP	RFC4646	
+nl	Dutch		RFC4646	
+nl_BE.ISO8859-1	Dutch (Belgium)	BE	posix	legacy
+nl_BE.ISO8859-15	Dutch (Belgium)	BE	posix	legacy
+nl_BE.UTF-8	Dutch (Belgium)	BE	posix	
+nl_NL.ISO8859-1	Dutch (Netherlands)	NL	posix	legacy
+nl_NL.ISO8859-15	Dutch (Netherlands)	NL	posix	legacy
+nl_NL.UTF-8	Dutch (Netherlands)	NL	posix	
+nl-AW	Dutch (Aruba)	AW	RFC4646	
+nl-BE	Dutch (Belgium)	BE	RFC4646	
+nl-BQ	Dutch (Bonaire, Sint Eustatius and Saba)	BQ	RFC4646	
+nl-CW	Dutch (Curaçao)	CW	RFC4646	
+nl-NL	Dutch (Netherlands)	NL	RFC4646	
+nl-SR	Dutch (Suriname)	SR	RFC4646	
+nl-SX	Dutch (Sint Maarten)	SX	RFC4646	
+nmg	Kwasio		RFC4646	
+nmg-CM	Kwasio (Cameroon)	CM	RFC4646	
+nn	Norwegian (Nynorsk)		RFC4646	
+nn_NO.ISO8859-1	Norwegian Nynorsk (Norway)	NO	posix	legacy
+nn_NO.UTF-8	Nynorsk (Norway )	NO	posix	
+nn-NO	Norwegian, Nynorsk (Norway)	NO	RFC4646	
+nnh	Ngiemboon		RFC4646	
+nnh-CM	Ngiemboon (Cameroon)	CM	RFC4646	
+no	Norwegian		RFC4646	
+nqo	N'ko		RFC4646	
+nqo-GN	N'ko (Guinea)	GN	RFC4646	
+nr	South Ndebele		RFC4646	
+nr-ZA	South Ndebele (South Africa)	ZA	RFC4646	
+nso	Sesotho sa Leboa		RFC4646	
+nso-ZA	Sesotho sa Leboa (South Africa)	ZA	RFC4646	
+nus	Nuer		RFC4646	
+nus-SS	Nuer (South Sudan)	SS	RFC4646	
+nyn	Nyankole		RFC4646	
+nyn-UG	Nyankole (Uganda)	UG	RFC4646	
+oc	Occitan		RFC4646	
+oc-FR	Occitan (France)	FR	RFC4646	
+om	Oromo		RFC4646	
+om-ET	Oromo (Ethiopia)	ET	RFC4646	
+om-KE	Oromo (Kenya)	KE	RFC4646	
+or	Odia		RFC4646	
+or_IN.UTF-8	Oriya (India)	IN	posix	
+or-IN	Odia (India)	IN	RFC4646	
+os	Ossetic		RFC4646	
+os-GE	Ossetian (Cyrillic, Georgia)	GE	RFC4646	
+os-RU	Ossetian (Cyrillic, Russia)	RU	RFC4646	
+pa	Punjabi		RFC4646	
+pa_IN.UTF-8	Punjabi (India)	IN	posix	
+pa-Arab	Punjabi (Arabic)		RFC4646	
+pa-Arab-PK	Punjabi (Islamic Republic of Pakistan)	PK	RFC4646	
+pa-IN	Punjabi (India)	IN	RFC4646	
+pap	Papiamento		RFC4646	
+pap-029	Papiamento (Caribbean)		RFC4646	
+pl	Polish		RFC4646	
+pl_PL.ISO8859-2	Polish (Poland)	PL	posix	legacy
+pl_PL.UTF-8	Polish (Poland)	PL	posix	
+pl-PL	Polish (Poland)	PL	RFC4646	
+prg	Prussian		RFC4646	
+prg-001	Prussian (World)		RFC4646	
+prs	Dari		RFC4646	
+prs-AF	Dari (Afghanistan)	AF	RFC4646	
+ps	Pashto		RFC4646	
+ps-AF	Pashto (Afghanistan)	AF	RFC4646	
+pt	Portuguese		RFC4646	
+pt_BR.ISO8859-1	Portuguese (Brazil)	BR	posix	legacy
+pt_BR.UTF-8	Portuguese (Brazil)	BR	posix	
+pt_PT.ISO8859-1	Portuguese (Portugal)	PT	posix	legacy
+pt_PT.ISO8859-15	Portuguese (Portugal )	PT	posix	legacy
+pt_PT.UTF-8	Portuguese (Portugal)	PT	posix	
+pt-AO	Portuguese (Angola)	AO	RFC4646	
+pt-BR	Portuguese (Brazil)	BR	RFC4646	
+pt-CH	Portuguese (Switzerland)	CH	RFC4646	
+pt-CV	Portuguese (Cabo Verde)	CV	RFC4646	
+pt-GQ	Portuguese (Equatorial Guinea)	GQ	RFC4646	
+pt-GW	Portuguese (Guinea-Bissau)	GW	RFC4646	
+pt-LU	Portuguese (Luxembourg)	LU	RFC4646	
+pt-MO	Portuguese (Macao SAR)	MO	RFC4646	
+pt-MZ	Portuguese (Mozambique)	MZ	RFC4646	
+pt-PT	Portuguese (Portugal)	PT	RFC4646	
+pt-ST	Portuguese (São Tomé and Príncipe)	ST	RFC4646	
+pt-TL	Portuguese (Timor-Leste)	TL	RFC4646	
+quc	K'iche'		RFC4646	
+quc-Latn	K'iche'		RFC4646	
+quc-Latn-GT	K'iche' (Guatemala)	GT	RFC4646	
+quz	Quechua		RFC4646	
+quz-BO	Quechua (Bolivia)	BO	RFC4646	
+quz-EC	Quechua (Ecuador)	EC	RFC4646	
+quz-PE	Quechua (Peru)	PE	RFC4646	
+rm	Romansh		RFC4646	
+rm-CH	Romansh (Switzerland)	CH	RFC4646	
+rn	Rundi		RFC4646	
+rn-BI	Rundi (Burundi)	BI	RFC4646	
+ro	Romanian		RFC4646	
+ro_RO.ISO8859-2	Romanian (Romania)	RO	posix	legacy
+ro_RO.UTF-8	Romanian (Romania)	RO	posix	
+ro-MD	Romanian (Moldova)	MD	RFC4646	
+ro-RO	Romanian (Romania)	RO	RFC4646	
+rof	Rombo		RFC4646	
+rof-TZ	Rombo (Tanzania)	TZ	RFC4646	
+ru	Russian		RFC4646	
+ru_RU.ANSI1251	Russian (Russia)	RU	posix	legacy
+ru_RU.ISO8859-5	Russian (Russia)	RU	posix	legacy
+ru_RU.KOI8-R	Russian (Russia)	RU	posix	legacy
+ru_RU.UTF-8	Russian (Russia)	RU	posix	
+ru_UA.UTF-8	Russian (Ukraine )	UA	posix	
+ru-BY	Russian (Belarus)	BY	RFC4646	
+ru-KG	Russian (Kyrgyzstan)	KG	RFC4646	
+ru-KZ	Russian (Kazakhstan)	KZ	RFC4646	
+ru-MD	Russian (Moldova)	MD	RFC4646	
+ru-RU	Russian (Russia)	RU	RFC4646	
+ru-UA	Russian (Ukraine)	UA	RFC4646	
+rw	Kinyarwanda		RFC4646	
+rw-RW	Kinyarwanda (Rwanda)	RW	RFC4646	
+rwk	Rwa		RFC4646	
+rwk-TZ	Rwa (Tanzania)	TZ	RFC4646	
+sa	Sanskrit		RFC4646	
+sa_IN.UTF-8	Sanskrit (India)	IN	posix	
+sa-IN	Sanskrit (India)	IN	RFC4646	
+sah	Sakha		RFC4646	
+sah-RU	Sakha (Russia)	RU	RFC4646	
+saq	Samburu		RFC4646	
+saq-KE	Samburu (Kenya)	KE	RFC4646	
+sbp	Sangu		RFC4646	
+sbp-TZ	Sangu (Tanzania)	TZ	RFC4646	
+sd	Sindhi		RFC4646	
+sd-Arab	Sindhi (Arabic)		RFC4646	
+sd-Arab-PK	Sindhi (Islamic Republic of Pakistan)	PK	RFC4646	
+sd-Deva	Sindhi (Devanagari)		RFC4646	
+sd-Deva-IN	Sindhi (Devanagari, India)	IN	RFC4646	
+se	Sami (Northern)		RFC4646	
+se-FI	Sami, Northern (Finland)	FI	RFC4646	
+se-NO	Sami, Northern (Norway)	NO	RFC4646	
+se-SE	Sami, Northern (Sweden)	SE	RFC4646	
+seh	Sena		RFC4646	
+seh-MZ	Sena (Mozambique)	MZ	RFC4646	
+ses	Koyraboro Senni		RFC4646	
+ses-ML	Koyraboro Senni (Mali)	ML	RFC4646	
+sg	Sango		RFC4646	
+sg-CF	Sango (Central African Republic)	CF	RFC4646	
+shi	Tachelhit		RFC4646	
+shi-Latn	Tachelhit (Latin)		RFC4646	
+shi-Latn-MA	Tachelhit (Latin, Morocco)	MA	RFC4646	
+shi-Tfng	Tachelhit (Tifinagh)		RFC4646	
+shi-Tfng-MA	Tachelhit (Tifinagh, Morocco)	MA	RFC4646	
+si	Sinhala		RFC4646	
+si-LK	Sinhala (Sri Lanka)	LK	RFC4646	
+sk	Slovak		RFC4646	
+sk_SK.ISO8859-2	Slovak (Slovakia)	SK	posix	legacy
+sk_SK.UTF-8	Slovak (Slovakia )	SK	posix	
+sk-SK	Slovak (Slovakia)	SK	RFC4646	
+sl	Slovenian / Slovene		RFC4646	
+sl_SI.ISO8859-2	Slovenian (Slovenia)	SI	posix	legacy
+sl_SI.UTF-8	Slovenian (Slovenia)	SI	posix	
+sl-SI	Slovenian / Slovene (Slovenia)	SI	RFC4646	
+sma	Sami (Southern)		RFC4646	
+sma-NO	Sami, Southern (Norway)	NO	RFC4646	
+sma-SE	Sami, Southern (Sweden)	SE	RFC4646	
+smj	Sami (Lule)		RFC4646	
+smj-NO	Sami, Lule (Norway)	NO	RFC4646	
+smj-SE	Sami, Lule (Sweden)	SE	RFC4646	
+smn	Sami (Inari)		RFC4646	
+smn-FI	Sami, Inari (Finland)	FI	RFC4646	
+sms	Sami (Skolt)		RFC4646	
+sms-FI	Sami, Skolt (Finland)	FI	RFC4646	
+sn	Shona		RFC4646	
+sn-Latn	Shona (Latin)		RFC4646	
+sn-Latn-ZW	Shona (Latin, Zimbabwe)	ZW	RFC4646	
+so	Somali		RFC4646	
+so-DJ	Somali (Djibouti)	DJ	RFC4646	
+so-ET	Somali (Ethiopia)	ET	RFC4646	
+so-KE	Somali (Kenya)	KE	RFC4646	
+so-SO	Somali (Somalia)	SO	RFC4646	
+sq	Albanian		RFC4646	
+sq_AL.ISO8859-2	Albanian (Albania)	AL	posix	legacy
+sq_AL.UTF-8	Albanian (Albania)	AL	posix	
+sq-AL	Albanian (Albania)	AL	RFC4646	
+sq-MK	Albanian (Macedonia, FYRO)	MK	RFC4646	
+sq-XK	Albanian (Kosovo)	XK	RFC4646	
+sr	Serbian		RFC4646	
+sr_ME.ISO8859-5	Serbian (Montenegro )	ME	posix	legacy
+sr_ME.UTF-8	Serbian (Montenegro )	ME	posix	
+sr_ME.UTF-8@latin	Serbian (Montenegro (Latin) )	ME	posix	
+sr_RS.UTF-8 	Serbian (Serbia)	RS	posix	
+sr_RS.UTF-8@latin	Serbian (Serbia (Latin))	RS	posix	
+sr-Cyrl	Serbian (Cyrillic)		RFC4646	
+sr-Cyrl-BA	Serbian (Cyrillic, Bosnia and Herzegovina)	BA	RFC4646	
+sr-Cyrl-ME	Serbian (Cyrillic, Montenegro)	ME	RFC4646	
+sr-Cyrl-RS	Serbian (Cyrillic, Serbia)	RS	RFC4646	
+sr-Cyrl-XK	Serbian (Cyrillic, Kosovo)	XK	RFC4646	
+sr-Latn	Serbian (Latin)		RFC4646	
+sr-Latn-BA	Serbian (Latin, Bosnia and Herzegovina)	BA	RFC4646	
+sr-Latn-ME	Serbian (Latin, Montenegro)	ME	RFC4646	
+sr-Latn-RS	Serbian (Latin, Serbia)	RS	RFC4646	
+sr-Latn-XK	Serbian (Latin, Kosovo)	XK	RFC4646	
+ss	Swati		RFC4646	
+ss-SZ	Swati (Eswatini former Swaziland)	SZ	RFC4646	
+ss-ZA	Swati (South Africa)	ZA	RFC4646	
+ssy	Saho		RFC4646	
+ssy-ER	Saho (Eritrea)	ER	RFC4646	
+st	Southern Sotho		RFC4646	
+st-LS	Sesotho (Lesotho)	LS	RFC4646	
+st-ZA	Southern Sotho (South Africa)	ZA	RFC4646	
+sv	Swedish		RFC4646	
+sv_SE.ISO8859-1	Swedish (Sweden)	SE	posix	legacy
+sv_SE.ISO8859-15	Swedish (Sweden)	SE	posix	legacy
+sv_SE.ISO8859-15@euro	Swedish (Sweden) – Euro	SE	posix	legacy
+sv_SE.UTF-8	Swedish (Sweden)	SE	posix	
+sv_SE.UTF-8@euro	Swedish (Sweden) – Euro	SE	posix	legacy
+sv-AX	Swedish (Åland Islands)	AX	RFC4646	
+sv-FI	Swedish (Finland)	FI	RFC4646	
+sv-SE	Swedish (Sweden)	SE	RFC4646	
+sw	Kiswahili / Swahili		RFC4646	
+sw-CD	Kiswahili / Swahili (Congo, DRC)	CD	RFC4646	
+sw-KE	Kiswahili / Swahili (Kenya)	KE	RFC4646	
+sw-TZ	Kiswahili / Swahili (Tanzania)	TZ	RFC4646	
+sw-UG	Kiswahili / Swahili (Uganda)	UG	RFC4646	
+syr	Syriac		RFC4646	
+syr-SY	Syriac (Syria)	SY	RFC4646	
+ta	Tamil		RFC4646	
+ta_IN.UTF-8	Tamil (India)	IN	posix	
+ta-IN	Tamil (India)	IN	RFC4646	
+ta-LK	Tamil (Sri Lanka)	LK	RFC4646	
+ta-MY	Tamil (Malaysia)	MY	RFC4646	
+ta-SG	Tamil (Singapore)	SG	RFC4646	
+te	Telugu		RFC4646	
+te_IN.UTF-8	Telugu (India)	IN	posix	
+te-IN	Telugu (India)	IN	RFC4646	
+teo	Teso		RFC4646	
+teo-KE	Teso (Kenya)	KE	RFC4646	
+teo-UG	Teso (Uganda)	UG	RFC4646	
+tg	Tajik		RFC4646	
+tg-Cyrl	Tajik (Cyrillic)		RFC4646	
+tg-Cyrl-TJ	Tajik (Cyrillic, Tajikistan)		RFC4646	
+th	Thai		RFC4646	
+th_TH.TIS620	Thai (Thailand)	TH	posix	legacy
+th_TH.UTF-8	Thai (Thailand )	TH	posix	
+th-TH	Thai (Thailand)		RFC4646	
+ti	Tigrinya		RFC4646	
+ti-ER	Tigrinya (Eritrea)	ER	RFC4646	
+ti-ET	Tigrinya (Ethiopia)	ET	RFC4646	
+tig	Tigre		RFC4646	
+tig-ER	Tigre (Eritrea)	ER	RFC4646	
+tk	Turkmen		RFC4646	
+tk-TM	Turkmen (Turkmenistan)	TM	RFC4646	
+tn	Setswana		RFC4646	
+tn-BW	Setswana (Botswana)	BW	RFC4646	
+tn-ZA	Setswana (South Africa)	ZA	RFC4646	
+to	Tongan		RFC4646	
+to-TO	Tongan (Tonga)	TO	RFC4646	
+tr	Turkish		RFC4646	
+tr_TR.ISO8859-9	Turkish (Turkey)	TR	posix	legacy
+tr_TR.UTF-8	Turkish (Turkey)	TR	posix	
+tr-CY	Turkish (Cyprus)	CY	RFC4646	
+tr-TR	Turkish (Turkey)	TR	RFC4646	
+ts	Tsonga		RFC4646	
+ts-ZA	Tsonga (South Africa)	ZA	RFC4646	
+tt	Tatar		RFC4646	
+tt-RU	Tatar (Russia)	RU	RFC4646	
+twq	Tasawaq		RFC4646	
+twq-NE	Tasawaq (Niger)	NE	RFC4646	
+tzm	Tamazight		RFC4646	
+tzm-Arab	Central Atlas Tamazight (Arabic)		RFC4646	
+tzm-Arab-MA	Central Atlas Tamazight (Arabic, Morocco)	MA	RFC4646	
+tzm-Latn	Tamazight (Latin)		RFC4646	
+tzm-Latn-DZ	Tamazight (Latin, Algeria)	DZ	RFC4646	
+tzm-Latn-MA	Central Atlas Tamazight (Latin, Morocco)	MA	RFC4646	
+tzm-Tfng	Tamazight (Tifinagh)		RFC4646	
+tzm-Tfng-MA	Central Atlas Tamazight (Tifinagh, Morocco)	MA	RFC4646	
+ug	Uyghur		RFC4646	
+ug-CN	Uyghur (PRC)	CN	RFC4646	
+uk	Ukrainian		RFC4646	
+uk_UA.UTF-8 	Ukrainian (Ukraine)	UA	posix	
+uk-UA	Ukrainian (Ukraine)	UA	RFC4646	
+ur	Urdu		RFC4646	
+ur-IN	Urdu (India)	IN	RFC4646	
+ur-PK	Urdu (Islamic Republic of Pakistan)	PK	RFC4646	
+uz	Uzbek		RFC4646	
+uz-Arab	Uzbek (Perso-Arabic)		RFC4646	
+uz-Arab-AF	Uzbek (Perso-Arabic, Afghanistan)	AF	RFC4646	
+uz-Cyrl	Uzbek (Cyrillic)		RFC4646	
+uz-Cyrl-UZ	Uzbek (Cyrillic, Uzbekistan)	UZ	RFC4646	
+uz-Latn	Uzbek (Latin)		RFC4646	
+uz-Latn-UZ	Uzbek (Latin, Uzbekistan)	UZ	RFC4646	
+vai	Vai		RFC4646	
+vai-Latn	Vai (Latin)		RFC4646	
+vai-Latn-LR	Vai (Latin, Liberia)	LR	RFC4646	
+vai-Vaii	Vai (Vai)		RFC4646	
+vai-Vaii-LR	Vai (Vai, Liberia)	LR	RFC4646	
+ve	Venda		RFC4646	
+ve-ZA	Venda (South Africa)	ZA	RFC4646	
+vi	Vietnamese		RFC4646	
+vi_VN.UTF-8	Vietnamese (Vietnam)	VN	posix	
+vi-VN	Vietnamese (Vietnam)		RFC4646	
+vo	Volapük		RFC4646	
+vo-001	Volapük (World)		RFC4646	
+vun	Vunjo		RFC4646	
+vun-TZ	Vunjo (Tanzania)	TZ	RFC4646	
+wae	Walser		RFC4646	
+wae-CH	Walser (Switzerland)	CH	RFC4646	
+wal	Wolaytta		RFC4646	
+wal-ET	Wolaytta (Ethiopia)	ET	RFC4646	
+wo	Wolof		RFC4646	
+wo-SN	Wolof (Senegal)	SN	RFC4646	
+xh	isiXhosa		RFC4646	
+xh-ZA	isiXhosa (South Africa)	ZA	RFC4646	
+xog	Soga		RFC4646	
+xog-UG	Soga (Uganda)	UG	RFC4646	
+yav	Yangben		RFC4646	
+yav-CM	Yangben (Cameroon)	CM	RFC4646	
+yi	Yiddish		RFC4646	
+yi-001	Yiddish (World)		RFC4646	
+yo	Yoruba		RFC4646	
+yo-BJ	Yoruba (Benin)	BJ	RFC4646	
+yo-NG	Yoruba (Nigeria)	NG	RFC4646	
+zgh	Standard Moroccan Tamazight		RFC4646	
+zgh-Tfng	Standard Moroccan Tamazight (Tifinagh)		RFC4646	
+zgh-Tfng-MA	Standard Moroccan Tamazight (Tifinagh, Morocco)	MA	RFC4646	
+zh	Chinese		RFC4646	
+zh_CN.EUC 	Simplified Chinese (China)	CN	posix	legacy
+zh_CN.EUC@pinyin	Simplified Chinese (China, pinyin)	CN	posix	legacy
+zh_CN.EUC@radical 	Simplified Chinese (China, radical)	CN	posix	legacy
+zh_CN.EUC@stroke	Simplified Chinese (China, stroke)	CN	posix	legacy
+zh_CN.GB18030	Simplified Chinese (China)	CN	posix	legacy
+zh_CN.GB18030@pinyin	Simplified Chinese (China, pinyin)	CN	posix	legacy
+zh_CN.GB18030@radical	Simplified Chinese (China, radical)	CN	posix	legacy
+zh_CN.GB18030@stroke	Simplified Chinese (China, stroke)	CN	posix	legacy
+zh_CN.GBK 	Simplified Chinese (China)	CN	posix	legacy
+zh_CN.GBK@pinyin 	Simplified Chinese (China, pinyin)	CN	posix	legacy
+zh_CN.GBK@radical 	Simplified Chinese (China, radical)	CN	posix	legacy
+zh_CN.GBK@stroke	Simplified Chinese (China, stroke)	CN	posix	legacy
+zh_CN.UTF-8	Simplified Chinese (China)	CN	posix	
+zh_CN.UTF-8@pinyin	Simplified Chinese (China, pinyin)	CN	posix	legacy
+zh_CN.UTF-8@radical	Simplified Chinese (China, radical)	CN	posix	legacy
+zh_CN.UTF-8@stroke	Simplified Chinese (China, stroke)	CN	posix	legacy
+zh_HK.BIG5HK 	Traditional Chinese (Hong Kong SAR China)	HK	posix	legacy
+zh_HK.BIG5HK@radical	Traditional Chinese (Hong Kong SAR China, radical)	HK	posix	legacy
+zh_HK.BIG5HK@stroke 	Traditional Chinese (Hong Kong SAR China, stroke)	HK	posix	legacy
+zh_HK.UTF-8	Traditional Chinese (Hong Kong SAR China)	HK	posix	
+zh_HK.UTF-8@radical	Traditional Chinese (Hong Kong SAR China, radical)	HK	posix	legacy
+zh_HK.UTF-8@stroke	Traditional Chinese (Hong Kong SAR China, stroke)	HK	posix	legacy
+zh_SG.UTF-8	Chinese (Singapore)	SG	posix	
+zh_TW.BIG5 	Traditional Chinese (Taiwan)	TW	posix	legacy
+zh_TW.BIG5@pinyin	Traditional Chinese (Taiwan, pinyin)	TW	posix	legacy
+zh_TW.BIG5@radical 	Traditional Chinese (Taiwan, radical)	TW	posix	legacy
+zh_TW.BIG5@stroke 	Traditional Chinese (Taiwan, stroke)	TW	posix	legacy
+zh_TW.BIG5@zhuyin	Traditional Chinese (Taiwan, zhuyin)	TW	posix	legacy
+zh_TW.EUC	Traditional Chinese (Taiwan)	TW	posix	legacy
+zh_TW.EUC@pinyin	Traditional Chinese (Taiwan, pinyin)	TW	posix	legacy
+zh_TW.EUC@radical 	Traditional Chinese (Taiwan, radical)	TW	posix	legacy
+zh_TW.EUC@stroke 	Traditional Chinese (Taiwan, stroke)	TW	posix	legacy
+zh_TW.EUC@zhuyin	Traditional Chinese (Taiwan, zhuyin)	TW	posix	legacy
+zh_TW.UTF-8	Traditional Chinese (Taiwan )	TW	posix	
+zh_TW.UTF-8@pinyin 	Traditional Chinese (Taiwan, pinyin)	TW	posix	legacy
+zh_TW.UTF-8@radical 	Traditional Chinese (Taiwan, radical)	TW	posix	legacy
+zh_TW.UTF-8@stroke	Traditional Chinese (Taiwan, stroke)	TW	posix	legacy
+zh_TW.UTF-8@zhuyin	Traditional Chinese (Taiwan, zhuyin)	TW	posix	legacy
+zh-CN	Chinese (Simplified, PRC)	CN	RFC4646	
+zh-Hans	Chinese (Simplified)		RFC4646	
+zh-Hans-HK	Chinese (Simplified Han, Hong Kong SAR)	HK	RFC4646	
+zh-Hans-MO	Chinese (Simplified Han, Macao SAR)	MO	RFC4646	
+zh-Hant	Chinese (Traditional)		RFC4646	
+zh-HK	Chinese (Traditional, Hong Kong S.A.R.)	HK	RFC4646	
+zh-MO	Chinese (Traditional, Macao S.A.R.)	MO	RFC4646	
+zh-SG	Chinese (Simplified, Singapore)	SG	RFC4646	
+zh-TW	Chinese (Traditional, Taiwan)	TW	RFC4646	
+zu	isiZulu		RFC4646	
+zu-ZA	isiZulu (South Africa)	ZA	RFC4646	
