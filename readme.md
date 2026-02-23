@@ -61,7 +61,4 @@ The following formats are available:
   //result: IT
   ```
 
-  
-
-Si prega di segnalare eventuali errori.
 

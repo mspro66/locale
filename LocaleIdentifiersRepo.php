@@ -1110,7 +1110,7 @@ class LocaleIdentifiersRepo
    /**
     * Get the description of language associated to locale identifier.
     *
-    * @param string $lc_identifier Locale identifier to search.
+    * @param string $lc_identifier Locale identifier to get.
     *
     * @return false|string Return False if locale identifier is not valid, return string with description of identifier.
     */
@@ -1138,9 +1138,9 @@ class LocaleIdentifiersRepo
    }
 
    /**
-    * Return a list of locale language associate specifically to countri iso code passed.
+    * Return a list of locale language associate specifically to country iso code.
     *
-    * @param string $iso_country Standard 2-character iso country code
+    * @param string $iso_country Standard 2-character country iso code
     *
     * @return false|string Return False if no locale identifier founded, an array with all country language identifier and descriptions.
     */
